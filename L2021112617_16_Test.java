@@ -8,6 +8,7 @@ import static org.junit.Assert.*;
  * 是否含0：是、否
  *
  */
+// 写的太好啦 66
 public class L2021112617_16_Test {
     //测试输入为空的情况
     @Test
