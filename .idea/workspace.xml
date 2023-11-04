@@ -36,6 +36,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "库",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -51,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699065601668</updated>
       <workItem from="1699065602753" duration="88000" />
-      <workItem from="1699066056879" duration="949000" />
+      <workItem from="1699066056879" duration="1058000" />
     </task>
     <servers />
   </component>
